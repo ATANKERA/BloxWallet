@@ -1,0 +1,9 @@
+SQLAlchemy>=1.3.0
+cockroachdb>=0.3.2
+names
+faker
+sqlalchemy-utils
+psycopg2-binary
+tabulate
+numpy
+
