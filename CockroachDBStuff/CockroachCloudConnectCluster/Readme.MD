@@ -8,3 +8,7 @@ This will allow us to upload private keys and store them securely on cockroachDB
 
 I was not able to load this onto the Raspberry Pi because I did all config on windows and raspbian is linux causing migrate issues.
 
+
+Note - You will need to have python and download the venv, unpack it and install requirements (SQLAlchemy)
+
+Running a venv is like so, navigate to location on cmd, and type py -m venv venv assuming you have pip installed venv
